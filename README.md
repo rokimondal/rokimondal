@@ -41,6 +41,9 @@
     🔗 <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">Live Demo</a>
   </li>
 </ul>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiMondal&theme=react&hide_border=true" alt="streak-stats"/>
+</p>
 
 <hr />
 
