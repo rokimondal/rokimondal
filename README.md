@@ -46,9 +46,42 @@
 
 <h2 align="left">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br />
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,typescript,react,tailwind,nodejs,express,mongodb,mysql,redux,firebase,vscode,git,github,postman,vite" />
-</div>
+<!-- 📚 Programming Languages -->
+<h2 align="left">📚 Programming Languages</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+</p>
+
+<!-- 📦 Frameworks & Libraries -->
+<h2 align="left">📦 Frameworks & Libraries</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+</p>
+
+<!-- 🧰 Tools & Platforms -->
+<h2 align="left">🧰 Tools & Platforms</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiMondal&theme=react&hide_border=true" alt="streak-stats"/>
 </p>
