@@ -47,7 +47,7 @@
 <h2 align="left">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br />
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,c++,java, python,dsa,html,css,javascript,typescript,react,tailwind,nodejs,express,mongodb,mysql,redux,firebase,vscode,git,github,postman,vite" />
+  <img src="https://skillicons.dev/icons?i=c,c++,java, python,html,css,javascript,typescript,react,tailwind,nodejs,express,mongodb,mysql,redux,firebase,vscode,git,github,postman,vite" />
 </div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiMondal&theme=react&hide_border=true" alt="streak-stats"/>
