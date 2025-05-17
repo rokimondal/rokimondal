@@ -5,9 +5,6 @@
   </a>
 </h1>
 
-<!-- Transparent coding GIF aligned right -->
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem16OTBmaHJvOWJodXlrajUzYTVwN3NsejM4cWtrZGg0MHNmOWFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding Animation" width="280" style="opacity:0.7;" />
-
 <h3 align="left">A passionate Full-stack Web Developer | MERN Stack Enthusiast 🚀</h3>
 <h4 align="left">B.Tech 4th Year | Computer Science & Engineering</h4>
 
