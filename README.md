@@ -1,13 +1,12 @@
-<!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RokiMondal.RokiMondal" />
-
-<!-- Animated Typing Intro with Courier New font -->
-<h1 align="left" style="font-family: 'Courier New', Courier, monospace;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Roki+Mondal" />
+<!-- Animated Typing Intro with Merriweather font -->
+<h1 align="left" style="font-family: 'Merriweather', serif;">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=800&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Roki+Mondal" alt="Typing SVG" />
+  </a>
 </h1>
 
 <!-- Transparent coding GIF aligned right -->
-<img align="right" src="https://media.giphy.com/media/3o7aD4fR6gSGQq8VvK/giphy.gif" alt="Coding GIF" width="200" style="opacity:0.7;"/>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem16OTBmaHJvOWJodXlrajUzYTVwN3NsejM4cWtrZGg0MHNmOWFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding Animation" width="280" style="opacity:0.7;" />
 
 <h3 align="left">A passionate Full-stack Web Developer | MERN Stack Enthusiast 🚀</h3>
 <h4 align="left">B.Tech 4th Year | Computer Science & Engineering</h4>
@@ -40,7 +39,7 @@
 <h2 align="left">📁 Projects</h2>
 <ul>
   <li>
-    <b>BookStore</b> – A modern, responsive online bookstore built with React, Node.js, Express, and MongoDB. Features include browsing books, managing inventory, and a smooth user experience.  
+    <b>BookStore</b> – A modern, responsive online bookstore built with React, Node.js, Express, and MongoDB. Features include browsing books, managing inventory, and providing a smooth user experience.  
     <br/>
     🔗 <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">Visit Project</a>
   </li>
