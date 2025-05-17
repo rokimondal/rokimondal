@@ -1,10 +1,13 @@
 <!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RokiMondal.RokiMondal" />
 
-<!-- Animated Typing Intro -->
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Roki+Mondal" />
+<!-- Animated Typing Intro with Courier New font -->
+<h1 align="left" style="font-family: 'Courier New', Courier, monospace;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Roki+Mondal" />
 </h1>
+
+<!-- Transparent coding GIF aligned right -->
+<img align="right" src="https://media.giphy.com/media/3o7aD4fR6gSGQq8VvK/giphy.gif" alt="Coding GIF" width="200" style="opacity:0.7;"/>
 
 <h3 align="left">A passionate Full-stack Web Developer | MERN Stack Enthusiast 🚀</h3>
 <h4 align="left">B.Tech 4th Year | Computer Science & Engineering</h4>
@@ -37,7 +40,9 @@
 <h2 align="left">📁 Projects</h2>
 <ul>
   <li>
-    <b>BookStore:</b> <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">https://book-store-frontend-gules.vercel.app/</a>
+    <b>BookStore</b> – A modern, responsive online bookstore built with React, Node.js, Express, and MongoDB. Features include browsing books, managing inventory, and a smooth user experience.  
+    <br/>
+    🔗 <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">Visit Project</a>
   </li>
 </ul>
 
