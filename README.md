@@ -50,5 +50,5 @@
 <h2 align="left">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br />
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,mui,nodejs,express,mongodb,redux,firebase,vscode,git,github,postman,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,express,mongodb,redux,firebase,vscode,git,github,postman,vite" />
 </div>
