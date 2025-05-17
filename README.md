@@ -38,7 +38,6 @@
   <li>
     <b>BookStore</b> – A modern, responsive online bookstore built with React, Node.js, Express, and MongoDB. Features include browsing books, managing inventory, and providing a smooth user experience.  
     <br/>
-    [👉 Live Demo](https://book-store-frontend-gules.vercel.app/)
     <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">🔗 Live Demo</a>
   </li>
 </ul>
