@@ -43,7 +43,7 @@
   <li>
     <b>Netnity</b> – A real-time language learning platform where users can improve their speaking skills through chat and video calls with other learners. Built with Next.js, WebRTC, Tailwind CSS, and Socket.IO for seamless communication.  
     <br/>
-    🔗 <a href="[https://netnity.vercel.app/](https://netnity.onrender.com/)" target="_blank">Live Demo</a>
+    🔗 <a href="https://netnity.onrender.com/" target="_blank">Live Demo</a>
   </li>
 </ul>
 <hr />
