@@ -40,7 +40,13 @@
     <br/>
     🔗 <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">Live Demo</a>
   </li>
+  <li>
+    <b>Netnity</b> – A sleek and professional website for a digital service company, showcasing services like web design, app development, UI/UX, video editing, and more. Built using Next.js, Tailwind CSS, and Framer Motion.  
+    <br/>
+    🔗 <a href="https://netnity.vercel.app/" target="_blank">Live Demo</a>
+  </li>
 </ul>
+
 
 <hr />
 
