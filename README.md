@@ -41,13 +41,11 @@
     🔗 <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">Live Demo</a>
   </li>
   <li>
-    <b>Netnity</b> – A sleek and professional website for a digital service company, showcasing services like web design, app development, UI/UX, video editing, and more. Built using Next.js, Tailwind CSS, and Framer Motion.  
+    <b>Netnity</b> – A real-time language learning platform where users can improve their speaking skills through chat and video calls with other learners. Built with Next.js, WebRTC, Tailwind CSS, and Socket.IO for seamless communication.  
     <br/>
-    🔗 <a href="https://netnity.vercel.app/" target="_blank">Live Demo</a>
+    🔗 <a href="[https://netnity.vercel.app/](https://netnity.onrender.com/)" target="_blank">Live Demo</a>
   </li>
 </ul>
-
-
 <hr />
 
 <h2 align="left">⚒️ Languages, Frameworks & Tools ⚒️</h2>
