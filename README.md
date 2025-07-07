@@ -41,11 +41,13 @@
     🔗 <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">Live Demo</a>
   </li>
   <li>
-    <b>Netnity</b> – A real-time language learning platform where users can improve their speaking skills through chat and video calls with other learners. Built with Next.js, WebRTC, Tailwind CSS, and Socket.IO for seamless communication.  
+    <b>Netnity</b> – An interactive language learning platform where users can practice speaking through real-time chat and video calls with others, or communicate with an AI language tutor. Built with Next.js, WebRTC, Tailwind CSS, Socket.IO, and integrated AI models for personalized conversation practice.  
     <br/>
-    🔗 <a href="https://netnity.onrender.com/" target="_blank">Live Demo</a>
+    🔗 <a href="https://netnity.vercel.app/" target="_blank">Live Demo</a>
   </li>
 </ul>
+
+
 <hr />
 
 <h2 align="left">⚒️ Languages, Frameworks & Tools ⚒️</h2>
