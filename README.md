@@ -70,6 +70,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" />
+  <img src="https://skillicons.dev/icons?i=reactquery" alt="TanStack Query" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
@@ -89,5 +91,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiMondal&theme=react&hide_border=true" alt="streak-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROKIMONDAL&theme=react&hide_border=true" alt="streak-stats"/>
 </p>
