@@ -88,8 +88,9 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
 </p>
 
+<!-- 🔥 GitHub Streak Stats -->
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.vercel.app?user=rokimondal&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=rokimondal&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
