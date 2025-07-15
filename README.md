@@ -70,7 +70,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-  <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" alt="TanStack Query" />
+  <!-- Zustand -->
+<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/resources/logo.svg" alt="Zustand" width="40" />
+
+<!-- TanStack / React Query -->
+<img src="https://unpkg.com/simple-icons@v9/icons/reactquery.svg" alt="React Query" width="40" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
