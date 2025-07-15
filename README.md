@@ -70,11 +70,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-  <!-- Zustand -->
-<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/resources/logo.svg" alt="Zustand" width="40" />
-
-<!-- TanStack / React Query -->
-<img src="https://unpkg.com/simple-icons@v9/icons/reactquery.svg" alt="React Query" width="40" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
@@ -94,5 +89,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rokimondal&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.vercel.app?user=rokimondal&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
