@@ -70,7 +70,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-  <img src="https://img.shields.io/badge/Zustand-602C3C?style=flat-square&logo=Zustand&logoColor=white" alt="Zustand" width="40" />
   <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" alt="TanStack Query" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
