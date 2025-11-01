@@ -58,7 +58,12 @@
 
 
 
-<div align="center">
+<div align="left">
+<hr />
+<br />
+
+<h2 align="left">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<br />
 
   <!-- Languages -->
   <h3>Languages</h3>
