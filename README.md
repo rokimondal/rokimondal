@@ -58,60 +58,24 @@
 
 
 
-<hr />
-<br />
+<div align="center">
 
-<h2 align="left">⚒️ Languages, Frameworks & Tools ⚒️</h2>
-<br />
+  <!-- Languages -->
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cpp" alt="Languages" />
 
-<!-- 📚 Programming Languages -->
-<h3 align="left">📚 Programming Languages</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-</p>
+  <!-- Frameworks & Libraries -->
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,materialui,prisma" alt="Frameworks and Libraries" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="48" height="48" />
 
-<!-- ⚙️ Frameworks & Libraries -->
-<h3 align="left">⚙️ Frameworks & Libraries</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
-  <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
-</p>
+  <!-- Tools & Platforms -->
+  <h3>Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" alt="Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Postgresql_elephant.svg" alt="Neon" width="48" height="48" />
 
-<!-- 🧠 Backend & Databases -->
-<h3 align="left">🧠 Backend & Databases</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=neon" alt="Neon" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma ORM" />
-</p>
+</div>
 
-<!-- 🧰 Tools & Platforms -->
-<h3 align="left">🧰 Tools & Platforms</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=render" alt="Render" />
-</p>
 
 
 <!-- 🔥 GitHub Streak Stats -->
