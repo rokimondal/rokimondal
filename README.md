@@ -76,7 +76,7 @@
 
   <!-- Tools & Platforms -->
   <h3>Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,docker" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" alt="Tools" />
 
 </div>
 
