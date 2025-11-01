@@ -35,17 +35,27 @@
 
 <h2 align="left">📁 Projects</h2>
 <ul>
+  
   <li>
-    <b>BookStore</b> – A modern, responsive online bookstore built with React, Node.js, Express, and MongoDB. Features include browsing books, managing inventory, and providing a smooth user experience.  
+    <b>RiseAI</b> – An AI-powered career growth platform built with Next.js, Neon SQL, Prisma, and Clerk authentication. It provides weekly updated job insights, AI-based resume builder, cover letter generator, and mock interview practice with MCQs — all powered by Google Gemini for smart content generation.  
     <br/>
-    🔗 <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">Live Demo</a>
+    🔗 <a href="[#](https://rise-ai-umber.vercel.app/)" target="_blank">Live Demo</a>
   </li>
+  
   <li>
     <b>Netnity</b> – An interactive language learning platform where users can practice speaking through real-time chat and video calls with others, or communicate with an AI language tutor. Built with Next.js, WebRTC, Tailwind CSS, Socket.IO, and integrated AI models for personalized conversation practice.  
     <br/>
     🔗 <a href="https://netnity.onrender.com/" target="_blank">Live Demo</a>
   </li>
+
+  <li>
+    <b>BookStore</b> – A modern, responsive online bookstore built with React, Node.js, Express, and MongoDB. Features include browsing books, managing inventory, and providing a smooth user experience.  
+    <br/>
+    🔗 <a href="https://book-store-frontend-gules.vercel.app/" target="_blank">Live Demo</a>
+  </li>
+  
 </ul>
+
 
 
 <hr />
