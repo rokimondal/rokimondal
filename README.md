@@ -59,11 +59,13 @@
 
 
 <hr />
+<br />
 
 <h2 align="left">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br />
+
 <!-- 📚 Programming Languages -->
-<h2 align="left">📚 Programming Languages</h2>
+<h3 align="left">📚 Programming Languages</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
@@ -75,28 +77,42 @@
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
 </p>
 
-<!-- 📦 Frameworks & Libraries -->
-<h2 align="left">📦 Frameworks & Libraries</h2>
+<!-- ⚙️ Frameworks & Libraries -->
+<h3 align="left">⚙️ Frameworks & Libraries</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
 </p>
 
+<!-- 🧠 Backend & Databases -->
+<h3 align="left">🧠 Backend & Databases</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=neon" alt="Neon" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma ORM" />
+</p>
+
 <!-- 🧰 Tools & Platforms -->
-<h2 align="left">🧰 Tools & Platforms</h2>
+<h3 align="left">🧰 Tools & Platforms</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=render" alt="Render" />
 </p>
+
 
 <!-- 🔥 GitHub Streak Stats -->
 <p align="center">
