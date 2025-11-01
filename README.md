@@ -39,7 +39,7 @@
   <li>
     <b>RiseAI</b> – An AI-powered career growth platform built with Next.js, Neon SQL, Prisma, and Clerk authentication. It provides weekly updated job insights, AI-based resume builder, cover letter generator, and mock interview practice with MCQs — all powered by Google Gemini for smart content generation.  
     <br/>
-    🔗 <a href="[#](https://rise-ai-umber.vercel.app/)" target="_blank">Live Demo</a>
+    🔗 <a href="https://rise-ai-umber.vercel.app/" target="_blank">Live Demo</a>
   </li>
   
   <li>
