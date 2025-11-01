@@ -77,7 +77,6 @@
   <!-- Tools & Platforms -->
   <h3>Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" alt="Tools" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Postgresql_elephant.svg" alt="Neon" width="48" height="48" />
 
 </div>
 
